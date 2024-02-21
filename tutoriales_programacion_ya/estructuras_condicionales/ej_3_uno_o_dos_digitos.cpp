@@ -19,4 +19,6 @@ int main() {
   }
 
     cout << "El número ingresado tiene " << digitos << " dígitos" << endl;
+
+  return 0;
 }

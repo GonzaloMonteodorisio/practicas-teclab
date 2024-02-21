@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/gonzalo/TecLab/logica-de-programacion/modulo-2/actividadM2/ejercicios",
-      "program": "/home/gonzalo/TecLab/logica-de-programacion/modulo-2/actividadM2/ejercicios/build/Debug/outDebug",
+      "cwd": "/home/gonzalo/TecLab/logica-de-programacion/modulo-2/actividadM2/ejercicios/ejercicios_clase/modulo_2/clase_3",
+      "program": "/home/gonzalo/TecLab/logica-de-programacion/modulo-2/actividadM2/ejercicios/ejercicios_clase/modulo_2/clase_3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
