@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArregloEstudiantes",
+      "request": "launch",
+      "mainClass": "ArregloEstudiantes",
+      "projectName": "ejercicios_e1dc3299"
+    },
+    {
+      "type": "java",
       "name": "Arreglos",
       "request": "launch",
       "mainClass": "Arreglos",
