@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MatricesAlmacen",
+      "request": "launch",
+      "mainClass": "MatricesAlmacen",
+      "projectName": "ejercicios_e1dc3299"
+    },
+    {
+      "type": "java",
+      "name": "Matrices",
+      "request": "launch",
+      "mainClass": "Matrices",
+      "projectName": "ejercicios_e1dc3299"
+    },
+    {
+      "type": "java",
       "name": "ArregloEstudiantes",
       "request": "launch",
       "mainClass": "ArregloEstudiantes",
