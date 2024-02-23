@@ -21,4 +21,6 @@ int main() {
     cout << "Desea introducir otro número? \nIngrese 's' para si o 'n' para no" << endl;
     cin >> seguir;
   } while (seguir == 's');
+
+  return 0;
 }
